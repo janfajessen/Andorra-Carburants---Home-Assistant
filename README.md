@@ -2,7 +2,9 @@
 
 # Andorra Fuel Prices <br> Home Assistant Integration
 
-<img src="brands/icon@2x.png" width="250"/>
+
+![Logo para oscuro](brands/dark_logo@2x.png#gh-dark-mode-only)
+![Logo para claro](brands/logo@2x.png#gh-light-mode-only)
 
 ![Version](https://img.shields.io/badge/version-1.5.24-blue?style=for-the-badge)
 ![HA](https://img.shields.io/badge/Home%20Assistant-2024.1+-orange?style=for-the-badge&logo=home-assistant)
