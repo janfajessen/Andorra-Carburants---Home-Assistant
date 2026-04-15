@@ -600,4 +600,4 @@ automation:
 
 ### Crèdits
 
-Basat en la integració `command_line` original de [@janfajessen](https://github.com/janfajessen), amb agraïments a *maniattico* del canal de Telegram [Domoticaencasa.es](https://t.me/domoticaencasa) pel descobriment de l'endpoint de l'API.
+Basat en la integració `command_line` original meva de [@janfajessen](https://github.com/janfajessen/Andorra-Preu-dels-Carburants-Home-Assistant-integration-with-command-line), amb agraïments a *maniattico* del canal de Telegram [Domoticaencasa.es](https://t.me/domoticaencasa) pel descobriment de l'endpoint de l'API.
