@@ -1,0 +1,12 @@
+{
+  "domain": "andorra_carburants",
+  "name": "Andorra Preus Carburants",
+  "version": "1.0.0",
+  "documentation": "https://github.com/janfajessen/Andorra-Preu-dels-Carburants-Home-Assistant-integration-with-command-line",
+  "issue_tracker": "https://github.com/janfajessen/Andorra-Preu-dels-Carburants-Home-Assistant-integration-with-command-line/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@janfajessen"],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}

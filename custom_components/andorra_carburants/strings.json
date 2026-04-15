@@ -1,0 +1,54 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Andorra Preus Carburants",
+        "description": "Font: sig.govern.ad/IPE/PreusCarburants",
+        "data": {
+          "fuel_types": "Combustibles a seguir",
+          "show_parish_sensors": "Crear sensors per parròquia",
+          "scan_interval": "Interval d'actualització (s, mínim 3600)"
+        }
+      },
+      "favorites": {
+        "title": "Gasolineres favorites",
+        "description": "Les estacions marcades amb ★ tenen descompte conegut.",
+        "data": {
+          "selected_stations": "Gasolineres a seguir",
+          "discount_mypyri_pay": "Aplicar descompte My Pyri Pay (★ TotalEnergies)",
+          "discount_mypyri": "Aplicar descompte My Pyri (★ BP)"
+        }
+      }
+    },
+    "error": {
+      "fuel_types_empty": "Selecciona almenys un combustible."
+    },
+    "abort": {
+      "already_configured": "La integració ja està configurada."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Modificar configuració",
+        "data": {
+          "fuel_types": "Combustibles a seguir",
+          "show_parish_sensors": "Sensors per parròquia",
+          "scan_interval": "Interval d'actualització (s)"
+        }
+      },
+      "favorites": {
+        "title": "Gasolineres favorites",
+        "description": "Les estacions marcades amb ★ tenen descompte conegut.",
+        "data": {
+          "selected_stations": "Gasolineres a seguir",
+          "discount_mypyri_pay": "Aplicar descompte My Pyri Pay (★ TotalEnergies)",
+          "discount_mypyri": "Aplicar descompte My Pyri (★ BP)"
+        }
+      }
+    },
+    "error": {
+      "fuel_types_empty": "Selecciona almenys un combustible."
+    }
+  }
+}
