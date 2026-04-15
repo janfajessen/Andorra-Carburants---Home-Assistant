@@ -1,0 +1,48 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Andorra Kraftstoffpreise",
+        "description": "Quelle: sig.govern.ad/IPE/PreusCarburants",
+        "data": {
+          "fuel_types": "Zu überwachende Kraftstoffe",
+          "show_parish_sensors": "Sensoren pro Gemeinde erstellen",
+          "scan_interval": "Aktualisierungsintervall (s, mindestens 3600)"
+        }
+      },
+      "favorites": {
+        "title": "Lieblingstankstellen",
+        "description": "Mit ★ markierte Stationen haben bekannte Rabatte.",
+        "data": {
+          "selected_stations": "Zu überwachende Tankstellen",
+          "discount_mypyri_pay": "My Pyri Pay Rabatt anwenden (★ TotalEnergies)",
+          "discount_mypyri": "My Pyri Rabatt anwenden (★ BP)"
+        }
+      }
+    },
+    "error": { "fuel_types_empty": "Bitte mindestens einen Kraftstoff auswählen." },
+    "abort": { "already_configured": "Diese Integration ist bereits konfiguriert." }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Konfiguration ändern",
+        "data": {
+          "fuel_types": "Zu überwachende Kraftstoffe",
+          "show_parish_sensors": "Sensoren pro Gemeinde",
+          "scan_interval": "Aktualisierungsintervall (s)"
+        }
+      },
+      "favorites": {
+        "title": "Lieblingstankstellen",
+        "description": "Mit ★ markierte Stationen haben bekannte Rabatte.",
+        "data": {
+          "selected_stations": "Zu überwachende Tankstellen",
+          "discount_mypyri_pay": "My Pyri Pay Rabatt anwenden (★ TotalEnergies)",
+          "discount_mypyri": "My Pyri Rabatt anwenden (★ BP)"
+        }
+      }
+    },
+    "error": { "fuel_types_empty": "Bitte mindestens einen Kraftstoff auswählen." }
+  }
+}

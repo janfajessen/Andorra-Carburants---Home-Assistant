@@ -1,0 +1,48 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Andorra Fuel Prices",
+        "description": "Source: sig.govern.ad/IPE/PreusCarburants",
+        "data": {
+          "fuel_types": "Fuel types to track",
+          "show_parish_sensors": "Create per-parish sensors",
+          "scan_interval": "Update interval (s, minimum 3600)"
+        }
+      },
+      "favorites": {
+        "title": "Favorite gas stations",
+        "description": "Stations marked with ★ have a known discount.",
+        "data": {
+          "selected_stations": "Stations to track",
+          "discount_mypyri_pay": "Apply My Pyri Pay discount (★ TotalEnergies)",
+          "discount_mypyri": "Apply My Pyri discount (★ BP)"
+        }
+      }
+    },
+    "error": { "fuel_types_empty": "Select at least one fuel type." },
+    "abort": { "already_configured": "This integration is already configured." }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Modify configuration",
+        "data": {
+          "fuel_types": "Fuel types to track",
+          "show_parish_sensors": "Per-parish sensors",
+          "scan_interval": "Update interval (s)"
+        }
+      },
+      "favorites": {
+        "title": "Favorite gas stations",
+        "description": "Stations marked with ★ have a known discount.",
+        "data": {
+          "selected_stations": "Stations to track",
+          "discount_mypyri_pay": "Apply My Pyri Pay discount (★ TotalEnergies)",
+          "discount_mypyri": "Apply My Pyri discount (★ BP)"
+        }
+      }
+    },
+    "error": { "fuel_types_empty": "Select at least one fuel type." }
+  }
+}

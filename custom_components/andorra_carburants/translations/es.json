@@ -1,0 +1,48 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Andorra Precios Carburantes",
+        "description": "Fuente: sig.govern.ad/IPE/PreusCarburants",
+        "data": {
+          "fuel_types": "Combustibles a seguir",
+          "show_parish_sensors": "Crear sensores por parroquia",
+          "scan_interval": "Intervalo de actualización (s, mínimo 3600)"
+        }
+      },
+      "favorites": {
+        "title": "Gasolineras favoritas",
+        "description": "Las estaciones marcadas con ★ tienen descuento conocido.",
+        "data": {
+          "selected_stations": "Gasolineras a seguir",
+          "discount_mypyri_pay": "Aplicar descuento My Pyri Pay (★ TotalEnergies)",
+          "discount_mypyri": "Aplicar descuento My Pyri (★ BP)"
+        }
+      }
+    },
+    "error": { "fuel_types_empty": "Selecciona al menos un combustible." },
+    "abort": { "already_configured": "La integración ya está configurada." }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Modificar configuración",
+        "data": {
+          "fuel_types": "Combustibles a seguir",
+          "show_parish_sensors": "Sensores por parroquia",
+          "scan_interval": "Intervalo de actualización (s)"
+        }
+      },
+      "favorites": {
+        "title": "Gasolineras favoritas",
+        "description": "Las estaciones marcadas con ★ tienen descuento conocido.",
+        "data": {
+          "selected_stations": "Gasolineras a seguir",
+          "discount_mypyri_pay": "Aplicar descuento My Pyri Pay (★ TotalEnergies)",
+          "discount_mypyri": "Aplicar descuento My Pyri (★ BP)"
+        }
+      }
+    },
+    "error": { "fuel_types_empty": "Selecciona al menos un combustible." }
+  }
+}
