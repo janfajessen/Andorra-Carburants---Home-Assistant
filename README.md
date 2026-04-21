@@ -112,6 +112,13 @@ automation:
             📍 Més barata: {{ state_attr('sensor.andorra_gasolina_95_preu_minim', 'estacio_mes_barata') }}
 ```
 
+*Si esta integración te resulta útil, considera darle una estrella ⭐ en GitHub.*
+O considera apoyar su desarrollo
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee)
+](https://www.buymeacoffee.com/janfajessen) 
+[![Patreon](https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/janfajessen)
+</div>
+
 </details>
 
 ---
@@ -180,6 +187,13 @@ automation:
             ⛽ SP95 à {{ states('sensor.andorra_gasolina_95_preu_minim') }} €/L
             à {{ state_attr('sensor.andorra_gasolina_95_preu_minim', 'estacio_mes_barata') }}
 ```
+
+*Si cette intégration vous est utile, n'hésitez pas à lui attribuer une étoile sur GitHub.* 
+Vous pouvez également soutenir son développement
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee)
+](https://www.buymeacoffee.com/janfajessen) 
+[![Patreon](https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/janfajessen)
+</div>
 
 </details>
 
@@ -260,6 +274,14 @@ logger:
     custom_components.andorra_carburants: debug
 ```
 
+*If this integration is useful to you, consider giving it a ⭐ on GitHub.*
+Or consider supporting development!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee)
+](https://www.buymeacoffee.com/janfajessen) 
+[![Patreon](https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/janfajessen)
+</div>
+
 </details>
 
 ---
@@ -311,6 +333,13 @@ A integração faz uma primeira chamada à API e mostra a **lista real** de post
 | `sensor.andorra_<combustivel>_preu_minim` | €/L | Preço mínimo no país |
 | `sensor.parroquia_<paroquia>_<combustivel>_preu_minim` | €/L | Preço mínimo por paróquia |
 | `sensor.<posto>_<combustivel>` | €/L | Preço com desconto do posto favorito |
+
+*Se esta integração for útil para você, considere dar uma ⭐ no GitHub.*
+Ou considere apoiar o desenvolvimento!
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee)
+](https://www.buymeacoffee.com/janfajessen) 
+[![Patreon](https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/janfajessen)
+</div>
 
 </details>
 
@@ -597,6 +626,13 @@ automation:
             ({{ state_attr('sensor.andorra_gasolina_95_
 ```
 
+*Si aquesta integració es util per a tu, considera donar-li una ⭐ a GitHub.*
+O considera donar suport pel desenvolupament
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee)
+](https://www.buymeacoffee.com/janfajessen) 
+[![Patreon](https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/janfajessen)
+</div>
 
 ### Crèdits
 
