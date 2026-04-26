@@ -3,8 +3,8 @@
 # Andorra Fuel Prices <br> Home Assistant Integration
 
 
-![Logo para oscuro](brands/dark_logo@2x.png#gh-dark-mode-only)
-![Logo para claro](brands/logo@2x.png#gh-light-mode-only)
+![Logo para oscuro](https://github.com/janfajessen/Andorra-Carburants---Home-Assistant/blob/108cde21894e4c989d366fbea0641fe2ff26e4d2/brand/dark_logo%402x.png#gh-dark-mode-only)
+![Logo para claro](https://github.com/janfajessen/Andorra-Carburants---Home-Assistant/blob/108cde21894e4c989d366fbea0641fe2ff26e4d2/brand/logo%402x.png#gh-light-mode-only)
 
 ![Version](https://img.shields.io/badge/version-1.5.24-blue?style=for-the-badge)
 ![HA](https://img.shields.io/badge/Home%20Assistant-2024.1+-orange?style=for-the-badge&logo=home-assistant)
@@ -42,7 +42,7 @@ Permite configurar **gasolineras favoritas con descuentos personalizados** — c
 1. HACS → Integraciones → ⋮ → Repositorios personalizados
 2. Pega la URL del repositorio · Categoría: **Integración**
 3. Instala "Andorra Preus Carburants" y reinicia Home Assistant
-<img src="brands/icon@2x.png" width="100"/> 
+<img src="https://github.com/janfajessen/Andorra-Carburants---Home-Assistant/blob/108cde21894e4c989d366fbea0641fe2ff26e4d2/brand/icon%402x.png" width="100"/> 
 
 ### Manual
 Copia la carpeta `custom_components/andorra_carburants/` a `<config>/custom_components/` y reinicia.
@@ -138,7 +138,8 @@ Permet de configurer des **stations favorites avec des remises personnalisées**
 1. HACS → Intégrations → ⋮ → Dépôts personnalisés
 2. Collez l'URL du dépôt · Catégorie : **Intégration**
 3. Installez « Andorra Preus Carburants » et redémarrez Home Assistant
-<img src="brands/icon@2x.png" width="100"/> 
+<img src="https://github.com/janfajessen/Andorra-Carburants---Home-Assistant/blob/108cde21894e4c989d366fbea0641fe2ff26e4d2/brand/icon%402x.png" width="100"/> 
+
 
 ### Manuel
 Copiez le dossier `custom_components/andorra_carburants/` dans `<config>/custom_components/` et redémarrez.
@@ -214,7 +215,8 @@ Supports **favorite gas stations with custom discounts** — with automatic supp
 1. HACS → Integrations → ⋮ → Custom repositories
 2. Paste the repository URL · Category: **Integration**
 3. Install "Andorra Preus Carburants" and restart Home Assistant
-<img src="brands/icon@2x.png" width="100"/> 
+<img src="https://github.com/janfajessen/Andorra-Carburants---Home-Assistant/blob/108cde21894e4c989d366fbea0641fe2ff26e4d2/brand/icon%402x.png" width="100"/> 
+
 
 ### Manual
 Copy the `custom_components/andorra_carburants/` folder to `<config>/custom_components/` and restart.
@@ -301,7 +303,8 @@ Permite configurar **postos favoritos com descontos personalizados** — com sup
 1. HACS → Integrações → ⋮ → Repositórios personalizados
 2. Cole o URL do repositório · Categoria: **Integração**
 3. Instale "Andorra Preus Carburants" e reinicie o Home Assistant
-<img src="brands/icon@2x.png" width="100"/> 
+<img src="https://github.com/janfajessen/Andorra-Carburants---Home-Assistant/blob/108cde21894e4c989d366fbea0641fe2ff26e4d2/brand/icon%402x.png" width="100"/> 
+
 
 ### Manual
 Copie a pasta `custom_components/andorra_carburants/` para `<config>/custom_components/` e reinicie.
@@ -356,7 +359,8 @@ Integració nativa per a Home Assistant que obté els preus de **tots els carbur
 1. HACS → Integracions → ⋮ → Repositoris personalitzats
 2. Enganxa la URL del repositori · Categoria: **Integració**
 3. Instal·la "Andorra Preus Carburants" i reinicia Home Assistant
-<img src="brands/icon@2x.png" width="100"/> 
+<img src="https://github.com/janfajessen/Andorra-Carburants---Home-Assistant/blob/108cde21894e4c989d366fbea0641fe2ff26e4d2/brand/icon%402x.png" width="100"/> 
+
 
 ### Manual
 
