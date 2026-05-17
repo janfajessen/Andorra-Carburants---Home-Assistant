@@ -6,7 +6,7 @@
 ![Logo para oscuro](https://github.com/janfajessen/Andorra-Carburants---Home-Assistant/blob/108cde21894e4c989d366fbea0641fe2ff26e4d2/brand/dark_logo%402x.png#gh-dark-mode-only)
 ![Logo para claro](https://github.com/janfajessen/Andorra-Carburants---Home-Assistant/blob/108cde21894e4c989d366fbea0641fe2ff26e4d2/brand/logo%402x.png#gh-light-mode-only)
 
-![Version](https://img.shields.io/badge/version-1.5.24-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.5.25-blue?style=for-the-badge)
 ![HA](https://img.shields.io/badge/Home%20Assistant-2024.1+-orange?style=for-the-badge&logo=home-assistant)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python)
