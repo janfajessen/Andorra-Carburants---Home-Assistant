@@ -1,7 +1,7 @@
 {
   "domain": "andorra_carburants",
   "name": "Andorra Preus Carburants",
-  "version": "1.0.0",
+  "version": "1.5.30",
   "documentation": "https://github.com/janfajessen/Andorra-Carburants---Home-Assistant",
   "issue_tracker": "https://github.com/janfajessen/Andorra-Carburants---Home-Assistant/issues",
   "requirements": [],
